@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestListManagementHub", "GuestListManagementHub.csproj", "{307AFF8C-4CCD-4A3E-8B5C-3CE057238BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{307AFF8C-4CCD-4A3E-8B5C-3CE057238BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307AFF8C-4CCD-4A3E-8B5C-3CE057238BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307AFF8C-4CCD-4A3E-8B5C-3CE057238BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307AFF8C-4CCD-4A3E-8B5C-3CE057238BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D68E0406-DF37-4AE6-93E4-693B185104C2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿@model GuestListManagementHub.Models.JokesModel
+@{
+	ViewData["Title"] = "Random Jokes";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+	<h2>Here's a random joke for you!</h2>
+
+	<p>@Model.type</p>
+	<p>@Model.setup</p>
+	<p>@Model.punchline</p>
+	<p>@Model.id</p>
+</div>
